@@ -25,4 +25,13 @@ The application uses Retrieval-Augmented Generation (RAG) to retrieve relevant i
 ---
 
 # 🧠 How It Works
+# ▶️ Run Locally
+
+## 1. Clone the Repository
+
+Download the project:
+
+```bash
+git clone YOUR_GITHUB_LINK
+
 
