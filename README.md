@@ -33,5 +33,10 @@ Download the project:
 
 ```bash
 git clone YOUR_GITHUB_LINK
+# ▶️ Run Locally
+
+
+
+
 
 
